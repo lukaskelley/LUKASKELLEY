@@ -25,6 +25,6 @@
 
 <h2>📊 GitHub Stats </h2>
 <p>
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api?username=lukaskelley&show_icons=true&hide_border=true&theme=dark&hide_title=true" >
-<img align="" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukaskelley&layout=compact&theme=monokai&count_private=false">
+<img align="right" width="200px" height="200px" src="https://github-readme-stats.vercel.app/api?username=lukaskelley&show_icons=true&hide_border=true&theme=dark&hide_title=true" >
+<img align="" width="200px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukaskelley&layout=compact&theme=monokai&count_private=false">
 </p>
