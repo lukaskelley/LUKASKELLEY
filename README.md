@@ -1,8 +1,8 @@
-<div>
-  <div align="center" style="display:inlink-block;">
+<div style="position: absolute;">
+  <div align="center"style="position: absolute;width:50%;">
   <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="100" height="100"/>
   </div>
-  <div align="center" style="display:inlink-block;">
+  <div align="center"style="position: absolute;width:50%;">
     <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="100" height="100" display:inlink-block />
   </div>
 </div>
