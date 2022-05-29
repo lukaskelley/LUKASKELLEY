@@ -26,5 +26,5 @@
 <h2>📊 GitHub Stats </h2>
 <p>
 <img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=lukaskelley&show_icons=true&hide_border=true&background=000000&hide_title=true" >
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukaskelley&layout=compact&background=000000&count_private=false">
+<img align="right" height="150px" src="http://github-readme-streak-stats.herokuapp.com?user=lukaskelley&theme=dark&background=000000">
 </p>
