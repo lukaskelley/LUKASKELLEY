@@ -1,8 +1,7 @@
 <div>
   <img align="center" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300" height="300"/>
-  <img align="center" src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="400" height="200"/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  <img align="center" src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="400" height="100"/>
+</div>
 
 <div>
   <h2>🛠Languages and Tools :</h2>
