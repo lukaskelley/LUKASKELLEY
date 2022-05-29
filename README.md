@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+  <img src="https://giphy.com/embed/jRf5fsn8G6YaogAWxn/giphy.gif" width="400" height="200"/>
 </div>
 <div>
   <h2>🛠Languages and Tools :</h2>
