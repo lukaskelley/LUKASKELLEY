@@ -2,10 +2,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
 <div>
-___________________________________________________________________________________________________________________
-  
-</div>
-<div>
   <h1>🛠Languages and Tools :</h1>
 </div>
 <div>
