@@ -1,9 +1,9 @@
 <h1>
   <div align="center">
     <div align="center">
-       <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100px height="100px"/>
+       <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30px height="30px"/>
             Lukas Kelley
-        <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100px height="100px"/><br/>
+        <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30px height="30px"/><br/>
      </div>
     <img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="870px height="870px"/>
   </div>   
