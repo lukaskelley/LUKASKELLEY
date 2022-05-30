@@ -1,14 +1,12 @@
-
-<div>
+<h1>
   <div align="center">
-    <h1>
     <img src="https://media.giphy.com/media/xHwDPt2kFONpKI8Rfw/giphy.gif" width="70px height="70px"/>
-      Lukas Kelley
+         Lukas Kelley
     <img src="https://media.giphy.com/media/xHwDPt2kFONpKI8Rfw/giphy.gif" width="70px height="70px"/><br/>
-      </h1>
-    BlockChain Developer
+      BlockChain Developer
   </div>   
-</div>
+</h1>
+
                                                                                                    
 <div>
   <h2>🛠Languages and Tools :</h2>
