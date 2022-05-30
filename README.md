@@ -1,6 +1,6 @@
 
-<h1>
-  <div align="center" background-color=white >
+<h1 style="font-size:300px;">
+  <div align="center">
     <img src="https://media.giphy.com/media/xHwDPt2kFONpKI8Rfw/giphy.gif" width="50px height="50px"/>
           Lukas Kelley
     <img src="https://media.giphy.com/media/xHwDPt2kFONpKI8Rfw/giphy.gif" width="50px height="50px"/>
