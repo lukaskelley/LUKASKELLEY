@@ -2,7 +2,7 @@
 <h1 style="font-size:300px;">
   <div align="center">
     <img src="https://media.giphy.com/media/xHwDPt2kFONpKI8Rfw/giphy.gif" width="70px height="70px"/>
-          Lukas Kelley
+          Lukas Kelley<br/>
          sdfsdafsd
     <img src="https://media.giphy.com/media/xHwDPt2kFONpKI8Rfw/giphy.gif" width="70px height="70px"/>
   </div>   
