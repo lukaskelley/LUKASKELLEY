@@ -4,7 +4,7 @@
        <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="27px height="27px"/>
             Lukas Kelley
         <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="27px height="27px"/><br/>
-        Blockchain & Web Developer
+         <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="27px height="27px"/>Blockchain & Web Developer <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="27px height="27px"/>
      </div>
     <img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="870px height="870px"/>
   </div>   
