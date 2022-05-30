@@ -1,7 +1,7 @@
 <h1>
   <div align="center">
     <div align="center">
-       <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="70px height="70px"/>
+       <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="70px height="70px"/>
             Lukas Kelley
         <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="70px height="70px"/><br/>
         BlockChain Developer
