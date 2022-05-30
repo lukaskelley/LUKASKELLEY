@@ -1,33 +1,24 @@
-name: Update readme
+name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:
-    - cron: "0 4 * * *"
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
-  readme:
+  build:
     runs-on: ubuntu-latest
-
+    name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v2
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v2
-        with:
-          node-version: 14
-      - run: npm install
-
-      - name: Generate readme
-        env:
-          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
-        run: node build-svg.js
-
-      - name: Commit changes
-        uses: EndBug/add-and-commit@v4
-        with:
-          author_name: lukaskelley
-          author_email: lukaskelley412@gmail.com
-          message: "Auto updating my readme"
-          add: "*.svg"
+      - uses: lukaskelley/github-profile-3d-contrib@0.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name lukaskelley
+          git config user.email lukaskelley412@gmail.com
+          git add -A .
+          git commit -m "generated"
+          git push
