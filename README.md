@@ -1,6 +1,6 @@
 <h1>
   <div align="center">
-    <img src="https://media.giphy.com/media/xHwDPt2kFONpKI8Rfw/giphy.gif" width="70px height="70px"/>
+    <img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="70px height="70px"/>
          Lukas Kelley
     <img src="https://media.giphy.com/media/xHwDPt2kFONpKI8Rfw/giphy.gif" width="70px height="70px"/><br/>
       BlockChain Developer
