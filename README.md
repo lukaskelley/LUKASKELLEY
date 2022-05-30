@@ -37,4 +37,4 @@
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaskelley&layout=compact&theme=vision-friendly-dark">
 </p>
 
-![](./profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
