@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/xHwDPt2kFONpKI8Rfw/giphy.gif" width="70px height="70px"/>
           Lukas Kelley
     <img src="https://media.giphy.com/media/xHwDPt2kFONpKI8Rfw/giphy.gif" width="70px height="70px"/><br/>
-        BlockChain Developer
+    <p>BlockChain Developer</P>
   </div>   
 </h1>
                                                                                                    
