@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=yellow&lines=LukasKelley;React+%7C%7C+Vue+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="grudev325">
+  <img src="https://readme-typing-svg.herokuapp.com?color=yellow&lines=LukasKelley;React+%7C%7C+Vue+%7C%7C+Express+%7C%7C+Mongo;Solidity+Rust+Web3;&center=true&width=800&height=45" alt="grudev325">
 </p>
-                                                                                         
+<h1>
+  <img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="870px height="870px"/>
+</h1>
 <div>
   <h2>🛠Languages and Tools :</h2>
 </div>
