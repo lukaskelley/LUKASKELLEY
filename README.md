@@ -3,8 +3,7 @@
  
 </p>
 <div align="center">
-  <img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="450px height="450px"/>
-   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
+  <img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="350px height="350px"/>
 </div>
 <div>
   <h2>🛠Languages and Tools :</h2>
