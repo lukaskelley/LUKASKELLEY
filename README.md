@@ -3,7 +3,6 @@
 </p>
 <div align="center">
   <img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="450px height="450px"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vininjr&theme=radical&layout=compact" height="300" width="350"/>
 </div>
 <div>
   <h2>🛠Languages and Tools :</h2>
