@@ -32,4 +32,4 @@
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaskelley&layout=compact&theme=red&bg_color=DEG,000,000,001,002,003">
 </p>
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
