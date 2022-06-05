@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=yellow&lines=LukasKelley;React+%7C%7C+Vue+%7C%7C+Express+%7C%7C+Mongo;Solidity+%7C%7C+Rust+%7C%7C+Web3;&center=true&width=800&height=45" alt="grudev325">
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
+ 
 </p>
 <div align="center">
   <img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="450px height="450px"/>
+   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
 </div>
 <div>
   <h2>🛠Languages and Tools :</h2>
