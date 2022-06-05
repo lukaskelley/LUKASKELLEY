@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=yellow&lines=LukasKelley;React+%7C%7C+Vue+%7C%7C+Express+%7C%7C+Mongo;Solidity+%7C%7C+Rust+%7C%7C+Web3;&center=true&width=800&height=45" alt="grudev325">
 </p>
 <div align="center">
-  <img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="870px height="870px"/>
+  <img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="450px height="450px"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vininjr&theme=radical&layout=compact" height="300" width="350"/>
 </div>
 <div>
   <h2>🛠Languages and Tools :</h2>
