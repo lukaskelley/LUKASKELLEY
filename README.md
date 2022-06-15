@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=yellow&lines=LukasKelley;React+%7C%7C+Vue+%7C%7C+Express+%7C%7C+Mongo;Solidity+%7C%7C+Rust+%7C%7C+Web3;&center=true&width=800&height=45" alt="grudev325">
+  <img src="https://readme-typing-svg.herokuapp.com?color=yellow&lines=LukasKelley;React+%7C%7C+Vue+%7C%7C+Express+%7C%7C+Mongo;Solidity+%7C%7C+Rust+%7C%7C+Web3;&center=true&width=800&height=85" alt="grudev325">
  
 </p>
 <div>
