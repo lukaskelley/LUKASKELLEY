@@ -29,4 +29,3 @@
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaskelley&layout=compact&theme=github_dark">
 </p>
 
-![](./profile-3d-contrib/profile-night-green.svg)
