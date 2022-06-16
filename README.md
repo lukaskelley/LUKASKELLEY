@@ -26,8 +26,8 @@
 
 <h2>📊 GitHub Stats </h2>
 <p>
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=lukaskelley&layout=compact&theme=black" >
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaskelley&layout=compact&theme=black">
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=lukaskelley&layout=compact&theme=react" >
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaskelley&layout=compact&theme=react">
 </p>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
