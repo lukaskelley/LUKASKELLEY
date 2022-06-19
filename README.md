@@ -1,5 +1,5 @@
 
-  <img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=LukasKelley;React+%7C%7C+Vue+%7C%7C+Express+%7C%7C+Mongo;Solidity+%7C%7C+Rust+%7C%7C+Web3;&center=true&width=1000&height=155" alt="grudev325">
+  <img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=LukasKelley;React+%7C%7C+Vue+%7C%7C+Express+%7C%7C+Mongo;Solidity+%7C%7C+Rust+%7C%7C+Web3;&center=true&width=1000&height=85" alt="grudev325">
 
 <div>
   <h2>🛠Languages and Tools :</h2>
