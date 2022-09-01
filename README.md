@@ -3,9 +3,6 @@
 </p>
 
 <div>
-  <h3>🛠Languages and Tools :</h3>
-</div>
-<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="solidity" alt="solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="rust" alt="rust" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -24,7 +21,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<h3>📊 GitHub Stats </h3>
 <p>
 <img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=lukaskelley&layout=compact&theme=github_dark" >
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaskelley&layout=compact&theme=github_dark">
