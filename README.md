@@ -2,9 +2,9 @@
 ✨ Welcom my side ✨
 </h2>
 
-🥇 Experienced, forward-thinking developer with 6 years of expertise in developing and implementing cutting-edge software solutions to boost corporate productivity 🥇
+🥇 Experienced, forward-thinking developer with 7 years of expertise in developing and implementing cutting-edge software solutions to boost corporate productivity 🥇
 </br>
-💪 My power skills are React | Next.Js | Web3 Integration 💪
+💪 Very skilled in managing projects A~Z, from concept through development 💪
 <br />
 🔥 Credibility and development completion are key components of my perfection as a web developer 🔥
 </h4>
