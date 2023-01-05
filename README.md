@@ -3,24 +3,17 @@ Hi 👋 Welcome!
 </h2>
 
 
-You can check my past 🔗BLOCKCHAIN🔗 works here: <a href="https://github.com/dev-tom-0108/-MY-Projects-README-">MY PROJECTs</a>
-</br></br>
+<h4 align="center">
+More than 8 years of experience with web and app development, 2+ years of 🔗<b>BLOCKCHAIN</b>🔗 part. 
+<br /><br />
+👨‍💻As a creative & passionate developer, and fast learner with new skills and cutting edge skills in detail and high quality.👨‍💻
+</br>
+💪My strength is building Smart Contracts on several chains. Web3 injection is also my power!💪
+<br />
+🔥I am always trying to improve development and communication processes.🔥
+</h4>
+<br />
 
-
-## 💰 Chain based
-<span><img src="https://seeklogo.com/images/S/solana-sol-logo-9AA58519FE-seeklogo.com.png" alt="Solana logo" title="Solana" height="40" />
-&nbsp;
-<img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="Ethereum logo" title="Ethereum" height="40" />
-&nbsp;
-<img src="https://seeklogo.com/images/B/binance-coin-bnb-logo-CD94CC6D31-seeklogo.com.png" alt="Binance logo" title="Binance" height="35" />
-&nbsp;
-<img src="https://seeklogo.com/images/A/avalanche-avax-logo-440813952D-seeklogo.com.png" alt="Avalanche logo" title="Avalanche" height="33" />
-&nbsp;
-<img src="https://seeklogo.com/images/P/polygon-matic-logo-1DFDA3A3A8-seeklogo.com.png" alt="Polygon logo" title="Polygon" height="33" />
-&nbsp;
-<img src="https://seeklogo.com/images/N/near-protocol-near-logo-3CBD263358-seeklogo.com.png" alt="Neaer Protocol logo" title="Near protocol" height="30" />
-&nbsp;
-<br /> <br />
 
 ## 🛠  Technologies and tools
 <span><img src="https://img.shields.io/badge/Rust-282C34?logo=Rust&logoColor=fff" alt="Rust logo" title="Rust" height="20" />
@@ -60,13 +53,3 @@ You can check my past 🔗BLOCKCHAIN🔗 works here: <a href="https://github.com
 <br /><br />
 
 
-<h4 align="center">
-More than 8 years of experience with web and app development, 2+ years of 🔗<b>BLOCKCHAIN</b>🔗 part. 
-<br /><br />
-👨‍💻As a creative & passionate developer, and fast learner with new skills and cutting edge skills in detail and high quality.👨‍💻
-</br>
-💪My strength is building Smart Contracts on several chains. Web3 injection is also my power!💪
-<br />
-🔥I am always trying to improve development and communication processes.🔥
-</h4>
-<br />
