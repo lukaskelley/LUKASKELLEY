@@ -42,5 +42,6 @@ More than 8 years of experience with web and app development, 2+ years of 🔗<b
 &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="20" />
 &nbsp;
+<br /><br />
 
 
