@@ -3,7 +3,7 @@ Hi 👋 Welcome!
 </h2>
 
 
-<h4 align="center">
+<h4 >
 More than 8 years of experience with web and app development, 2+ years of 🔗<b>BLOCKCHAIN</b>🔗 part. 
 <br /><br />
 👨‍💻As a creative & passionate developer, and fast learner with new skills and cutting edge skills in detail and high quality.👨‍💻
