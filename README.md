@@ -1,16 +1,16 @@
 <h2 >
-Hi 👋 Welcome!
+Welcom my side
 </h2>
 
 
 <h4 >
 More than 8 years of experience with web and app development, 2+ years of 🔗<b>BLOCKCHAIN</b>🔗 part. 
 <br /><br />
-👨‍💻As a creative & passionate developer, and fast learner with new skills and cutting edge skills in detail and high quality.👨‍💻
+💫Experienced, forward-thinking developer with 6 years of expertise in developing and implementing cutting-edge software solutions to boost corporate productivity.💫
 </br>
-💪My strength is building Smart Contracts on several chains. Web3 injection is also my power!💪
+💪 My power skills are React | Next.Js | Web3 Integration 💪
 <br />
-🔥I am always trying to improve development and communication processes.🔥
+🔥Credibility and development completion are key components of my perfection as a web developer. 🔥
 </h4>
 <br />
 
