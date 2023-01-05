@@ -1,10 +1,7 @@
 <h2 >
-Welcom my side
+✨ Welcom my side ✨
 </h2>
 
-
-<h4 >
-More than 8 years of experience with web and app development, 2+ years of 🔗<b>BLOCKCHAIN</b>🔗 part. 
 <br /><br />
 💫Experienced, forward-thinking developer with 6 years of expertise in developing and implementing cutting-edge software solutions to boost corporate productivity.💫
 </br>
