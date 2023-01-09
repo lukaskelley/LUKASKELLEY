@@ -46,7 +46,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Mongodb-282C34?logo=Mongodb&logoColor=41B883" alt="Mongodb logo" title="Mongodb" height="20" />
 &nbsp;
-<img src="https://img.shields.io/badge/Sql-282C34?logo=Sql&logoColor=41B883" alt="Sql logo" title="Sql" height="20" />
+<img src="https://img.shields.io/badge/Mysql-282C34?logo=Mysql&logoColor=41B883" alt="Mysql logo" title="Mysql" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="20" />
 &nbsp;
