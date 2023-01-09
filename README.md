@@ -48,6 +48,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Mysql-282C34?logo=Mysql&logoColor=F7DF1E" alt="Mysql logo" title="Mysql" height="20" />
 &nbsp;
+<img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=F05032" alt="Laravel logo" title="git" height="20" />
+&nbsp;
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="20" />
