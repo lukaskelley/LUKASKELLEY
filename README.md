@@ -46,6 +46,10 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Mongodb-282C34?logo=Mongodb&logoColor=41B883" alt="Mongodb logo" title="Mongodb" height="20" />
 &nbsp;
+<img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=41B883" alt="Django logo" title="Django" height="20" />
+&nbsp;
+<img src="https://img.shields.io/badge/Postgresql-282C34?logo=Postgresql&logoColor=41B883" alt="Postgresql logo" title="Postgresql" height="20" />
+&nbsp;
 <img src="https://img.shields.io/badge/Mysql-282C34?logo=Mysql&logoColor=F7DF1E" alt="Mysql logo" title="Mysql" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=41B883" alt="PHP logo" title="PHP" height="20" />
