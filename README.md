@@ -28,6 +28,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/React-282C34?logo=React&logoColor=61DBFB" alt="React logo" title="React" height="20" />
 &nbsp;
+<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="20" />
+&nbsp;
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=111111" alt="Next.js logo" title="Next.js" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/Angular-282C34?logo=Angular&logoColor=111111" alt="Angular logo" title="Angular" height="20" />
@@ -35,8 +37,6 @@
 <img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=41B883" alt="Vue.js logo" title="Vue.js" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=Nuxt.js&logoColor=41B883" alt="Nuxt.js logo" title="Nuxt.js" height="20" />
-&nbsp;
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="20" />
 &nbsp;
