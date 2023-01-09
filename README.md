@@ -24,6 +24,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=111111" alt="Next.js logo" title="Next.js" height="20" />
 &nbsp;
+<img src="https://img.shields.io/badge/Angular-282C34?logo=Angular&logoColor=111111" alt="Angular logo" title="Angular" height="20" />
+&nbsp;
 <img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=41B883" alt="Vue.js logo" title="Vue.js" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=Nuxt.js&logoColor=41B883" alt="Nuxt.js logo" title="Nuxt.js" height="20" />
