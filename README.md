@@ -31,7 +31,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=Nuxt.js&logoColor=41B883" alt="Nuxt.js logo" title="Nuxt.js" height="20" />
 &nbsp;
-
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="20" />
