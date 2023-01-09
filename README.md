@@ -2,12 +2,13 @@
 ✨ Welcom my side ✨
 </h2>
 
-🥇 Experienced, forward-thinking developer with 7 years of expertise in developing and implementing cutting-edge software solutions to boost corporate productivity 🥇
-</br>
-💪 Very skilled in managing projects A~Z, from concept through development 💪
-<br />
-🔥 Credibility and development completion are key components of my perfection as a web developer 🔥
-</h4>
+🥇 With 7 years of experience developing cutting-edge software solutions for corporate productivity. 
+I am an experienced, forwardthinking developer. My Passion is building fully responsive, fast,
+secure, user-friendly websites, website interfaces, and overall beautiful applications. 
+Implemented attractive, user-friendly and responsive front-end projects to interact with blockchain using
+web3.js, Ethers.js, solidity on EVM. I pride myself on delivering great results to every client on time, based on detail, quality, and
+responsibility. Credibility and Development completion is a key component of my perfection as a web developer.🥇
+
 <br />
 
 
