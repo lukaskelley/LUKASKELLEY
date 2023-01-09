@@ -38,6 +38,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=Nuxt.js&logoColor=41B883" alt="Nuxt.js logo" title="Nuxt.js" height="20" />
 &nbsp;
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=41B883" alt="Node.js logo" title="Node.js" height="20" />
+&nbsp;
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="20" />
