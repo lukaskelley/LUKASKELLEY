@@ -6,7 +6,8 @@
 I am an experienced, forwardthinking developer. My Passion is building fully responsive, fast,
 secure, user-friendly websites, website interfaces, and overall beautiful applications. 
 Implemented attractive, user-friendly and responsive front-end projects to interact with blockchain using
-web3.js, Ethers.js, solidity on EVM. I pride myself on delivering great results to every client on time, based on detail, quality, and
+web3.js, Ethers.js, solidity on EVM.
+I pride myself on delivering great results to every client on time, based on detail, quality, and
 responsibility. Credibility and Development completion is a key component of my perfection as a web developer.🥇
 
 <br />
